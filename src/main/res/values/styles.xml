@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="ControlsButton" parent="Widget.AppCompat.ImageButton">
-        <item name="android:background">?attr/selectableItemBackground</item>
-        <item name="android:padding">8dp</item>
-        <item name="android:layout_marginTop">4dp</item>
-        <item name="android:layout_marginBottom">4dp</item>
-    </style>
-</resources>
